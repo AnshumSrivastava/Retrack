@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Retrack</string>
+    <string name="accessibility_service_description">Retrack monitors short-form video player layouts on YouTube Shorts, Instagram Reels, TikTok, and Facebook Reels to help you manage your daily habit limits locally on-device.</string>
+</resources>
